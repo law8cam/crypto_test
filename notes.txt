@@ -1,0 +1,5 @@
+Blank Template for TypeScript Project
+
+ts-node-dev - will auto build from src to lib
+npm run dev - runs the typescript code
+npm run start - 
