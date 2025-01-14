@@ -16,6 +16,12 @@ function createNewEthereumAddress() {
     console.log("Ethereum Address:", address);
     console.log("Private Key:", privateKey);
 
+    "cube seek space unique renew cable one stumble ring video artefact hammer"
+
+    'unique point space unique renew cable one stumble ring video artefact hammer'
+
+    // tribe seek physical unique renew cable one stumble ring video artefact hammer
+
     return { address, privateKey };
 }
 
